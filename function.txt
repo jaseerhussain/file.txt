@@ -1,1 +1,1 @@
-the control pannel
+var place= bangalor
